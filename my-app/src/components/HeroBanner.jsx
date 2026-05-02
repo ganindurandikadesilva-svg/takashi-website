@@ -347,7 +347,7 @@ export default function HeroBanner() {
       <section className="hero-wrap">
         {/* ── Full-bleed product image ── */}
         <img
-          src="../assests/hero_img.png"
+          src="/images/hero_img.png"
           alt="Takashi power tool accessories — cutting, grinding and drilling"
           className="hero-bg-img"
         />

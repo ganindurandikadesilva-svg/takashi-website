@@ -5,7 +5,7 @@ const productData = [
     id: 1,
     name: "Diamond Cutting Disc",
     category: "Cutting",
-    image: "../assests/diamond_cutting_disc.png",
+    image: "/images/diamond_cutting_disc.png",
     description:
       "General purpose blades for construction materials. Designed for cutting Tile, concrete, clay paving, and other general construction materials.",
     buttonText: "LEARN MORE",
@@ -50,17 +50,17 @@ const productData = [
       },
     ],
     sizeImages: [
-      { label: '9"', image: "../assests/diamond_cutting_disc.png" },
-      { label: '7"', image: "../assests/diamond_cutting_disc.png" },
-      { label: '4 1/2"', image: "../assests/diamond_cutting_disc.png" },
-      { label: '4"', image: "../assests/diamond_cutting_disc.png" },
+      { label: '9"', image: "/images/diamond_cutting_disc.png" },
+      { label: '7"', image: "/images/diamond_cutting_disc.png" },
+      { label: '4 1/2"', image: "/images/diamond_cutting_disc.png" },
+      { label: '4"', image: "/images/diamond_cutting_disc.png" },
     ],
   },
   {
     id: 2,
     name: "Cutting Discs",
     category: "Cutting",
-    image: "../assests/cutting_disc.png",
+    image: "/images/cutting_disc.png",
     description: "Fast, clean and accurate cuts on metal and steel.",
     buttonText: "LEARN MORE",
     features: [
@@ -88,15 +88,15 @@ const productData = [
       },
     ],
     sizeImages: [
-      { label: '4"', image: "../assests/cutting_disc.png" },
-      { label: '4 1/2"', image: "../assests/cutting_disc.png" },
+      { label: '4"', image: "/images/cutting_disc.png" },
+      { label: '4 1/2"', image: "/images/cutting_disc.png" },
     ],
   },
   {
     id: 3,
     name: "Grinding Discs",
     category: "Grinding",
-    image: "../assests/diamond_cutting_disc.png",
+    image: "/images/diamond_cutting_disc.png",
     description: "Smooth grinding with maximum durability.",
     buttonText: "LEARN MORE",
     features: [
@@ -124,15 +124,15 @@ const productData = [
       },
     ],
     sizeImages: [
-      { label: '4 1/2"', image: "../assests/diamond_cutting_disc.png" },
-      { label: '7"', image: "../assests/diamond_cutting_disc.png" },
+      { label: '4 1/2"', image: "/images/diamond_cutting_disc.png" },
+      { label: '7"', image: "/images/diamond_cutting_disc.png" },
     ],
   },
   {
     id: 4,
     name: "Drill Bits",
     category: "Drilling",
-    image: "../assests/drill_bits.png",
+    image: "/images/drill_bits.png",
     description: "High-performance bits for every material.",
     buttonText: "LEARN MORE",
     features: [
@@ -168,16 +168,16 @@ const productData = [
       },
     ],
     sizeImages: [
-      { label: "6 mm", image: "../assests/drill_bits.png" },
-      { label: "8 mm", image: "../assests/drill_bits.png" },
-      { label: "10 mm", image: "../assests/drill_bits.png" },
+      { label: "6 mm", image: "/images/drill_bits.png" },
+      { label: "8 mm", image: "/images/drill_bits.png" },
+      { label: "10 mm", image: "/images/drill_bits.png" },
     ],
   },
   {
     id: 5,
     name: "Hacksaw Blades",
     category: "Cutting",
-    image: "../assests/hacksaw_blades.png",
+    image: "/images/hacksaw_blades.png",
     description: "Flexible, sharp and built for long life.",
     buttonText: "LEARN MORE",
     features: [
@@ -205,15 +205,15 @@ const productData = [
       },
     ],
     sizeImages: [
-      { label: "18 TPI", image: "../assests/hacksaw_blades.png" },
-      { label: "24 TPI", image: "../assests/hacksaw_blades.png" },
+      { label: "18 TPI", image: "/images/hacksaw_blades.png" },
+      { label: "24 TPI", image: "/images/hacksaw_blades.png" },
     ],
   },
   {
     id: 6,
     name: "Accessories",
     category: "Accessories",
-    image: "../assests/accessories.png",
+    image: "/images/accessories.png",
     description: "Everything you need for every perfect fit.",
     buttonText: "LEARN MORE",
     features: [

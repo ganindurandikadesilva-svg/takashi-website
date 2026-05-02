@@ -79,7 +79,7 @@ function CartIcon() {
 function TakashiLogo() {
   return (
     <img
-      src="../assests/company_logo.png"
+      src="/images/company_logo.png"
       alt="Takashi logo"
       width={42}
       height={42}

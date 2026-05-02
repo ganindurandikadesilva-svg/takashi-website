@@ -7,7 +7,7 @@ function NewsletterBanner() {
         {/* Left Image */}
         <div className="h-32 md:h-40 lg:h-44 overflow-hidden">
           <img
-            src="../assests/newsletter_banner.png"
+            src="/images/newsletter_banner.png"
             alt="Takashi Grinder"
             className="w-full h-full object-cover"
           />
