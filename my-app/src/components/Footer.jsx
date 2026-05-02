@@ -20,7 +20,7 @@ export default function Footer() {
           <div className="flex items-center gap-3">
             {/* Logo Image */}
             <img
-              src="../assests/company_logo.png" // put your logo in public folder
+              src="/images/company_logo.png" // put your logo in public folder
               alt="Takashi Logo"
               className="w-10 h-10 object-contain"
               style={{
