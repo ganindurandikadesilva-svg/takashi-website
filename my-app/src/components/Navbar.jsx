@@ -228,7 +228,7 @@ export default function Navbar() {
         { label: "HSS Drill Bits", to: "/product/Drill Bits" },
         { label: "Masonry Drill Bits", to: "#" },
         { label: "SDS Drill Bits", to: "#" },
-        { label: "Hole Saws", to: "3#" },
+        { label: "Hole Saws", to: "#" },
       ],
     },
     {
